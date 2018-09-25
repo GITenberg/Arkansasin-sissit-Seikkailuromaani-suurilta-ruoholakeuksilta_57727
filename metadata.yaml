@@ -1,0 +1,33 @@
+_repo: Arkansasin-sissit-Seikkailuromaani-suurilta-ruoholakeuksilta_57727
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Nordström, Niilo K.
+    gutenberg_agent_id: '49569'
+    url: http://www.gutenberg.org/2009/agents/49569
+creator:
+  author:
+    agent_name: Aimard, Gustave
+    alias: Gloux, Olivier
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '5146'
+    url: http://www.gutenberg.org/2009/agents/5146
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Gustave_Aimard
+    - http://fr.wikipedia.org/wiki/Gustave_Aimard
+description: ''
+gutenberg_issued: '2018-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57727'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Arkansasin sissit
+
+  Seikkailuromaani suurilta ruoholakeuksilta'
+url: http://www.gutenberg.org/ebooks/57727
