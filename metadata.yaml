@@ -5,6 +5,9 @@ contributor:
     agent_name: Nordström, Niilo K.
     gutenberg_agent_id: '49569'
     url: http://www.gutenberg.org/2009/agents/49569
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Aimard, Gustave
@@ -17,6 +20,8 @@ creator:
     - http://en.wikipedia.org/wiki/Gustave_Aimard
     - http://fr.wikipedia.org/wiki/Gustave_Aimard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57727#Arkansasin-sissit-Seikkailuromaani-suurilta-ruoholakeuksilta
 gutenberg_issued: '2018-08-19'
 gutenberg_type: Text
 identifiers:
